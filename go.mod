@@ -2,7 +2,7 @@ module github.com/caarlos0/tablewriter
 
 go 1.18
 
-require github.com/charmbracelet/lipgloss v0.5.0
+require github.com/charmbracelet/lipgloss v0.6.0
 
 require (
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
